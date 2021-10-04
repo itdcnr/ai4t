@@ -3,8 +3,8 @@ title: Why this Mooc?
 description:
 ---
 
-Used by everyone from now on, the term "artificial intelligence" needs to be explained and understood in order to be able to appropriate it and to take the necessary distance from the numerous preconceived ideas on the subject.  
-The objective of this online resource is to share a minimal culture on Artificial Intelligence, or rather AI components, in particular in the school context, and to give everyone the possibility to better master the issues and the use of these technologies.
+Utilizzato ormai da tutti, il termine "intelligenza artificiale" ha bisogno di essere spiegato e compreso per potersene appropriare e Questa risorsa online ha l'obiettivo di condividere un minimo di cultura sull'Intelligenza Artificiale, o meglio sulle componenti dell'IA, in particolare nel contesto scolastico.  
+L'obiettivo di questa risorsa online è di condividere un minimo di cultura sull'Intelligenza Artificiale, o meglio sui componenti dell'AI, in particolare nel contesto scolastico, e di dare a tutti la possibilità di padroneggiare meglio le tematiche e l'uso di queste tecnologie.
 
 #### A content based on IAI Class'Code Mooc
 
