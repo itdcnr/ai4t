@@ -1,43 +1,43 @@
 ---
-title: What is in this Course?
+title: Cosa contiene questo corso?
 description:
 ---
 
-### The MOOC is organised in 3 Modules:
+### Il MOOC è organizzato in 3 moduli:
 
- **Module 1: What is meant by Artificial Intelligence?**
+ **Modulo 1: Cosa si intende per intelligenza artificiale?**
 
 <img src="../Images/bulle-IAI-module1.png" alt="bulle-IAI-module1" width="200">
 
-This first part is dedicated to the acquisition of a first understanding of what is meant by Artificial Intelligence, what it is not and finally raises the question: What is intelligence ?
+Questa prima parte è dedicata all'acquisizione di una prima comprensione di ciò che si intende per Intelligenza Artificiale, di ciò che non è e infine si pone la domanda: Che cos'è l'intelligenza?
 
-**Module 2: How does Machine Learning work?**
+**Modulo 2: Come funziona il Machine Learning?**
 
 <img src="../Images/bulle-IAI-module2.png" alt="bulle-IAI-module2" width="200">
 
-This second part helps to understand the basics of machine learning and the key role played by the control of data sets.
+Questa seconda parte aiuta a capire le basi dell'apprendimento automatico e il ruolo chiave giocato dal controllo dei set di dati.
 
-**Module 3: Artificial Intelligence at our service?**
+**Modulo 3: L'intelligenza artificiale al nostro servizio?**
 
 <img src="../Images/bulle-IAI-module3.png" alt="bulle-IAI-module3" width="200">
 
-This third part deals with the problems of ethics and aims to understand the stakes and the levers for AI to be at the service of humans.
+Questa terza parte affronta i problemi dell'etica e mira a capire la posta in gioco e le chiavi perché l'IA sia al servizio degli esseri umani.
 
-### Each module is articulated in 3 steps:
+### Ogni modulo è articolato in 3 fasi:
 
-*   To Question Yourself: to move from preconceived ideas to questions on which to build understanding.
-*   To Experiment: to perform activity (on line or not) and see by yourself.
-*   To Discover: to understand how it works through the history of humans and their ideas.
+* Interrogarsi: passare da idee preconcette a domande su cui costruire la comprensione.
+* Sperimentare: eseguire attività (online o meno) e vedere da soli.
+* Scoprire: capire come funziona attraverso la storia dell'uomo e delle sue idee.
 
-### Videos and quizzes?
+### Video and quizz?
 
-#### About videos
+#### Riguardo ai video
 
-The Mooc offers several introducing short videos. Their objective is to arouse the participant's curiosity, make them want to know more, trigger a debate...
-The scenario features a main character, Guillaume, who is questioning and seeking to know more about AI. Sometimes he talks on the phone with his cousin Theo and calls a fictitious hotline.
-Participants should not be surprised by this non-academic style of the videos.
+Il Mooc offre diversi video introduttivi. Il loro obiettivo è quello di suscitare la curiosità del partecipante, fargli desiderare di saperne di più, innescare un dibattito...
+Lo scenario presenta un personaggio principale, Guillaume, che si interroga e cerca di saperne di più sull'IA. A volte parla al telefono con suo cugino Theo e chiama una hotline fittizia.
+I partecipanti non dovrebbero essere sorpresi da questo stile non accademico dei video.
 
-#### About quizzes
+#### Riguardo ai quiz
 
-The Mooc offers quizzes at the end of each Module. Their objective is to reinforce the knowledge and skills acquired.
-_Note_ : At the end of each quizz a passing score is displayed, which is a rating of your answers. This information is not taken into account in the Mooc pedagogical pathway (because there is no evaluation of learners).
+Il Mooc offre dei quiz alla fine di ogni modulo. Il loro obiettivo è quello di rafforzare le conoscenze e le competenze acquisite.
+_Nota_ : Alla fine di ogni quiz viene visualizzato un punteggio di passaggio, che è una valutazione delle vostre risposte. Questa informazione non è presa in considerazione nel percorso pedagogico di Mooc (perché non esiste una valutazione degli studenti).
