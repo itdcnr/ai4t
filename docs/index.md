@@ -6,10 +6,11 @@ hide:
 - toc
 - navigation
 ---
-The Mooc V1 content is used by each partner during the pilot experimentation phase.  
-It addresses the **O1 objective** of the AI4T project that is:  
-**To give teachers a basic to solid culture about AI allowing them to become first-class citizens**  
-**as far as understanding AI, how it works, the challenges and consequences.**  
 
-<p style="text-align:right; color: #4051b5;">AI4T project is co-funded by the <br/>European Union's Erasmus+ programme.</p>
+Il contenuto del Mooc V1 è utilizzato da ogni partner durante la fase di sperimentazione pilota.  
+È stato realizzato in funzione dell' **Obiettivo O1** del progetto AI4T, ossia:
+
+**Dare agli insegnanti una cultura di base e solida sull'Intelligenza Artificiale (IA) che permetta loro di diventare cittadini di prima classe per quanto riguarda la comprensione dell'IA, come funziona, le sfide e le conseguenze.**  
+
+<p style="text-align:right; color: #4051b5;">Il progetto AI4T è co-finanziato dall'Unione Europea all'interno del programma Erasmus+</p>
 <img align="right" src="assets/logoerasmusright_en_0.jpeg" alt="Logo Erasmus+" width="250">
