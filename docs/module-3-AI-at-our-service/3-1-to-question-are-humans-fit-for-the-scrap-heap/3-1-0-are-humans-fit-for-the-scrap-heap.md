@@ -1,15 +1,15 @@
 ---
-title: Are Humans fit for the Scrap Heap?
-description:
+titolo: Gli esseri umani sono adatti per il rottame (scrap heap)?
+descrizione:
 ---
 
-Today with computers we talk about automatic information processing. Does this mean that artificial intelligence could replace intellectual work?
+Oggi con i computer si parla di elaborazione automatica delle informazioni. Questo significa che l'intelligenza artificiale potrebbe sostituire il lavoro intellettuale?
 
-**Do you also have questions?**  
-_Watch the video below (1 minute 51):_
+**Hai anche tu delle domande?  
+_Guarda il video qui sotto (1 minuto e 51):_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/CpS2_IsY2EI?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
-####Synopsis
-The main character, _Guillaume_, calls the hotline after reading an article about the possible disappearance of many jobs, whose work would in the future be done by AIs. He mentions projections that, in 10 or 20 years, foresee the disappearance of many jobs, especially white-collar jobs, whose tasks could be automated. _The Hotline_ puts this evolution into perspective and makes the link with the transformations that occurred in the 19th century during the industrial revolution. She recalls that all innovation leads to the replacement of certain activities by others. She also emphasises that today it is not really possible to know exactly which jobs will be automated.
-The discussion between _Guillaume_ and _The Hotline_ then refocuses on a new question: not what activities can be performed by AIs but what decisions should or should not be made by them. 
+####Sinossi
+Il protagonista, _Guillaume_, chiama _The Hotline_ dopo aver letto un articolo sulla possibile scomparsa di molti lavori, il cui lavoro sarebbe in futuro svolto dalle IA. Egli cita proiezioni che, in 10 o 20 anni, prevedono la scomparsa di molti lavori, soprattutto dei colletti bianchi, i cui compiti potrebbero essere automatizzati. _The Hotline_ mette in prospettiva questa evoluzione e fa il collegamento con le trasformazioni avvenute nel XIX secolo durante la rivoluzione industriale. Ricorda che ogni innovazione porta alla sostituzione di certe attività con altre. Sottolinea anche che oggi non è possibile sapere esattamente quali lavori saranno automatizzati.
+La discussione tra _Guillaume_ e _The Hotline_ si concentra quindi su una nuova questione: non quali attività possono essere svolte dalle IA, ma quali decisioni dovrebbero o non dovrebbero essere prese da esse. 
