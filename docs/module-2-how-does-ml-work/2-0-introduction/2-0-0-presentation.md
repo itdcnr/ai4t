@@ -3,15 +3,15 @@ title: Presentation
 description:
 ---
 
-**Objective of Module 2:**
+**Obiettivo del Modulo 2:**
 
-Understand the principles of machine learning and the crucial role played by the control of data sets.
+Comprendere i principi del Machine Learning e il ruolo cruciale del controllo dei data sets.
 
 **Content:**
 
-*   [To Question: AI in all its forms ?](../2-1-to-question-ai-in-all-its-forms/2-1-0-ai-in-all-its-forms.md)
-*   [To Experiment: Let's play with the data](../2-2-to-experiment-lets-play-with-the-data/2-2-0-tutorial-boosted-with-ai.md)
-*   [To Discover: Machine learning and data](../2-3-to-discover-of-machine-learning-data/2-3-0-of-machine-learning-and-data-video.md)
-*   [Quiz Module 2: Mechanisms in AI](../2-4-quiz-module-2/2-4-0-quiz-2-mechanisms-in-ai.md)
+*   [Per Farsi delle Domande: IA in tutte le sue forme ?](../2-1-to-question-ai-in-all-its-forms/2-1-0-ai-in-all-its-forms.md)
+*   [Per Sperimentare: Giochiamo con i dati](../2-2-to-experiment-lets-play-with-the-data/2-2-0-tutorial-boosted-with-ai.md)
+*   [Per Scoprire: Machine learning e dati](../2-3-to-discover-of-machine-learning-data/2-3-0-of-machine-learning-and-data-video.md)
+*   [Quiz Modulo 2: I Meccanismi nell'IA](../2-4-quiz-module-2/2-4-0-quiz-2-mechanisms-in-ai.md)
 
-**Investment time:** about 50 minutes
+**Tempo Necessario:** circa 50 minuti
