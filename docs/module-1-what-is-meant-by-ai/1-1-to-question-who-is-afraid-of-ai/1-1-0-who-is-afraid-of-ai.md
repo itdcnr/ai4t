@@ -1,15 +1,15 @@
 ---
-title: Who Is Afraid of AI?
+title: Chi ha paura dell'IA?
 description:
 ---
 
-Artificial intelligence! The more I hear about it, the less I understand it...  
-I thought it was top, but now I see an article where Stephen Hawking, you know the hyper brilliant researcher, who says: "the development of full artificial intelligence could end the human race".
+Intelligenza artificiale! Più ne sento parlare e meno ne capisco...  
+Pensavo fosse il top, ma ora vedo un articolo dove Stephen Hawking, sai il ricercatore iper brillante, che dice: "lo sviluppo di un'intelligenza artificiale completa potrebbe porre fine alla razza umana".
 
-**Do you also have the same question?**  
-_Watch the video below (3'04")_
+**Anche voi avete la stessa domanda?  
+_Guarda il video qui sotto (3'04")_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/JGl1NwywfJ0?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
 
-#### Synopsis
-The main character « _Guillaume_ » asks himself questions about artificial intelligence and its implications on our lives. Through an interaction with an off-screen character « _The Hotline_ », general questions about AI are raised, prior to further questioning. It is now reminded that AI is first and foremost a scientific discipline.
+#### Sinossi
+Il protagonista " _Guillaume_ " si pone delle domande sull'intelligenza artificiale e le sue implicazioni sulle nostre vite. Attraverso un'interazione con un personaggio fuori campo " _The Hotline_ ", vengono sollevate domande generali sull'IA, prima di ulteriori domande. Si ricorda che l'IA è prima di tutto una disciplina scientifica.
