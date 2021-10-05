@@ -9,4 +9,4 @@ Vai avanti e addestra un'IA!
 **Come provare?**  
 _Clicca l'immagine sottostante e lasciati guidare!_
 
-[![Image of Tutorial 1](../Images/Tuto-M1-FirstProgram.png)](https://pixees.fr/classcodeiai/app/tuto1?lang=en){:target="_blank" }
+[![Image of Tutorial 1](../Images/Tuto-M1-FirstProgram.png)](https://pixees.fr/classcodeiai/app/tuto1?lang=en)
