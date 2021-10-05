@@ -1,6 +1,6 @@
 ---
-title: Proviamo il nostro primo programma
-description:
+titolo: Proviamo il nostro primo programma
+descrizione:
 ---
 
 Cos'è l'IA e come funziona un programma di IA?  
