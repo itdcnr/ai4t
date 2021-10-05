@@ -5,14 +5,14 @@ hide:
 - toc
 ---
 
-### Quiz Module 3: Humans and AI
+### Quiz Modulo 3: Umani e IA
 
-Quiz Module 3 contains 3 parts:
+Il Quiz sul Modulo 3 contiene 3 parti:
 
-- QUIZ 1: AI & Neural Networks
-- QUIZ 2: Delegating Tasks to Algorithms
-- QUIZ 3: Bias and Creativity
+- QUIZ 1: IA & Reti Neurali
+- QUIZ 2: Delegare compiti agli Algoritmi
+- QUIZ 3: Pregiudizi e Creatività
 
-_Click on the image below and start the quiz!_
+_Clicca sull'immagine qui sotto per iniziare il Quiz!_
 
-[![Quiz Module 3: Humans and AI](../Images/AI4T-quiz-module3.png)](Quiz-3-ressources/HTML/AI4T-quiz-module3-artificial-intelligence-at-our-service-html/index.html#/lessons/0BzyyBsBtYAMIu56G1E_wOoZGuIscZop){:target="_blank" }
+[![Quiz Modulo 3: Umani e IA](../Images/AI4T-quiz-module3.png)](Quiz-3-ressources/HTML/AI4T-quiz-module3-artificial-intelligence-at-our-service-html/index.html#/lessons/0BzyyBsBtYAMIu56G1E_wOoZGuIscZop){:target="_blank" }
