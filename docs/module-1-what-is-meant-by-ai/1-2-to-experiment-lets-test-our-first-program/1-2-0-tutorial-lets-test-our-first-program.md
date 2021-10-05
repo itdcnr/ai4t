@@ -1,12 +1,12 @@
 ---
-title: Let's Test our First Program
+title: Proviamo il nostro primo programma
 description:
 ---
 
-What is AI and how does an AI program work?  
-Go ahead and train an AI!
+Cos'è l'IA e come funziona un programma di IA?  
+Vai avanti e addestra un'IA!
 
-**How to experiment?**  
-_Click on the image below and let yourself be guided!_
+**Come provare?**  
+_Clicca l'immagine sottostante e lasciati guidare!_
 
 [![Image of Tutorial 1](../Images/Tuto-M1-FirstProgram.png)](https://pixees.fr/classcodeiai/app/tuto1?lang=en){:target="_blank" }
