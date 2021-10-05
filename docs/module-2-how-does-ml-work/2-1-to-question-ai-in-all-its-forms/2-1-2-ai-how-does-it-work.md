@@ -1,27 +1,27 @@
 ---
-title: AI&#58; How Does it Work?
-description:
+titolo: AI&#58; Come funziona?
+descrizione:
 ---
 
-_Texte translated from IAI Mooc._
+_Texte tradotto da IAI Mooc._
 
-Many artificial intelligence mechanisms today work through supervised learning. This mechanism resembles one of the ways in which a biological system learns.
+Molti meccanismi di intelligenza artificiale oggi funzionano attraverso l'apprendimento supervisionato. Questo meccanismo assomiglia a uno dei modi in cui un sistema biologico impara.
 
-Let's imagine that we want to teach an artificial intelligence to recognise a cat in an image.
+Immaginiamo di voler insegnare ad un'intelligenza artificiale a riconoscere un gatto in un'immagine.
 
-To do this, we will provide a lot of data, namely, many images where a cat can be seen and many images where no cat can be seen, so that the calculation adjusts its parameters in order to give an output value corresponding to the presence or not of the feline. All these images constitute the input data, and the expected result, whether or not there is a cat in the image, the output data. These "input" and "output" data are the only information provided for its training.  
-The computational mechanism must therefore adjust internal parameters (such as the control knobs of a camera) to determine whether or not there is a cat in the image. The first time, a random and therefore most likely false result will be provided, then little by little the mechanism will observe the errors and by successive trials will adjust the parameters to reduce them. This process is known as machine learning.
+Per fare questo, forniremo molti dati, vale a dire, molte immagini dove si vede un gatto e molte immagini dove non si vede nessun gatto, in modo che il calcolo aggiusti i suoi parametri per dare un valore di uscita corrispondente alla presenza o meno del felino. Tutte queste immagini costituiscono i dati di entrata, e il risultato atteso, la presenza o meno di un gatto nell'immagine, i dati di uscita. Questi dati di "input" e "output" sono le uniche informazioni fornite per il suo addestramento.  
+Il meccanismo computazionale deve quindi regolare i parametri interni (come le manopole di controllo di una macchina fotografica) per determinare se c'è o meno un gatto nell'immagine. La prima volta, verrà fornito un risultato casuale e quindi molto probabilmente falso, poi a poco a poco il meccanismo osserverà gli errori e con prove successive regolerà i parametri per ridurli. Questo processo è noto come apprendimento automatico.
 
-<center><img src="../Images/artificial-intelligence-3382521_1280.jpg" alt="Virtual plant: plant recognition" width="350"></center>
-<center>Image by Gerd Altmann from Pixabay</center>
+<center><img src="../Images/artificial-intelligence-3382521_1280.jpg" alt="Pianta virtuale: riconoscimento piante" width="350"></center>
+<center>Immagine di Gerd Altmann da Pixabay</center>
 
-This mechanism of artificial neural networks is quite different from the neurons in our brain: they are just elementary computational units that combine input data and deliver a low or high value as output depending on the combined value. A neural network is a set of neurons that are all connected and communicate with each other. It is the parameters of these connections between neurons that constitute the control knobs to obtain the desired output for a given input. From the input neurons to the output neurons, via the neurons inside the network (hidden neurons), the digital information is transmitted to give a final result.
+Il meccanismo delle reti neurali artificiali è molto diverso dai neuroni del nostro cervello: sono solo unità computazionali elementari che combinano i dati di input e forniscono un valore basso o alto come output a seconda del valore combinato. Una rete neurale è un insieme di neuroni che sono tutti connessi e comunicano tra loro. Sono i parametri di queste connessioni tra i neuroni che costituiscono le manopole di controllo per ottenere l'output desiderato per un dato input. Dai neuroni di input ai neuroni di output, attraverso i neuroni interni alla rete (neuroni nascosti), l'informazione digitale viene trasmessa per dare un risultato finale.
 
-We speak of **deep learning** when there are many hidden layers stacked up to make the calculation more efficient.
+Si parla di **apprendimento profondo** quando ci sono molti strati nascosti sovrapposti per rendere il calcolo più efficiente.
 
-We speak of **convolutional neural networks** when neurons gather information from other neurons in the vicinity before transmitting the output to higher layers. For example, when analysing an image, a convolutional neural network will create filters to group information from a small area of the image. For example, the contrast, or a colour element, and then at the next layer small areas corresponding to basic elements such as a line or a slightly round area, and little by little the mechanism recognises a cat as well as Jim Davis, it's amazing. But then, what reasoning has been put in place to distinguish between images with and without cats? Well, none! It's just a calculation, a blind calculation in a way. And we don't know how to interpret such a calculation today. This is what we call the black box of AI <sup>2</sup>.
+Si parla di **reti neurali evolutive** quando i neuroni raccolgono informazioni da altri neuroni nelle vicinanze prima di trasmettere l'output agli strati superiori. Per esempio, quando si analizza un'immagine, una rete neurale convoluzionale creerà dei filtri per raggruppare le informazioni di una piccola area dell'immagine. Per esempio, il contrasto, o un elemento di colore, e poi allo strato successivo piccole aree corrispondenti a elementi di base come una linea o un'area leggermente rotonda, e poco a poco il meccanismo riconosce un gatto come Jim Davis, è incredibile. Ma allora, quale ragionamento è stato fatto per distinguere le immagini con e senza gatti? Beh, nessuno! È solo un calcolo, un calcolo cieco in un certo senso. E oggi non sappiamo come interpretare un tale calcolo. Questa è quella che chiamiamo la scatola nera dell'IA <sup>2</sup>.
 
 * * *
-<sup>2</sup>References in French: _[Comprendre le DeepLearning et les Réseaux de neurones en 10 mins !](https://www.youtube.com/watch?v=gPVVsw2OWdM)_ vidéo, Sociamix, août 2019 - (Understanding deep learning and neural networks in 10 mins!)  
+<sup>2</sup>Riferimenti in francese: _[Comprendre le DeepLearning et les Réseaux de neurones en 10 mins !](https://www.youtube.com/watch?v=gPVVsw2OWdM)_ vidéo, Sociamix, août 2019 - (Capire l'apprendimento profondo e le reti neurali in 10 minuti!)  
 _[Le deep learning](https://www.youtube.com/watch?v=trWrEWfhTVg)_, vidéo, Science étonnante #27, avril 2016  
-_[Comment le « deep learning » révolutionne l'intelligence artificielle](https://www.lemonde.fr/pixels/article/2015/07/24/comment-le-deep-learning-revolutionne-l-intelligence-artificielle_4695929_4408996.html)_ par Morgane Tual ; Le Monde, juillet 2015. \- (How Deep Learning transforms AI.)
+_[Comment le " deep learning " révolutionne l'intelligence artificielle](https://www.lemonde.fr/pixels/article/2015/07/24/comment-le-deep-learning-revolutionne-l-intelligence-artificielle_4695929_4408996.html)_ par Morgane Tual ; Le Monde, juillet 2015. \- (Come l'apprendimento profondo trasforma l'AI.)
