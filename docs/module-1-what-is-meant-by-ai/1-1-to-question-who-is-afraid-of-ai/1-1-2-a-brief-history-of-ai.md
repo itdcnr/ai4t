@@ -1,16 +1,16 @@
 ---
-title: A Brief History of AI
-description:
+titolo: Una breve storia dell'IA
+descrizione:
 ---
 
-_Translated text from the french IAI Mooc._
+_Testo tradotto dal francese IAI Mooc._
 
-Today, artificial intelligence is present in many of the technologies we use every day: in our computers, our mobile phones, our watches, our speakers... It is even present in our search engines and on social networks. This is probably what explains the new craze that it is experiencing today, we are passionate about it because it has enabled us to boost our technologies and therefore have better uses for them.
+Oggi, l'intelligenza artificiale è presente in molte delle tecnologie che usiamo ogni giorno: nei nostri computer, nei nostri telefoni cellulari, nei nostri orologi, nei nostri altoparlanti... È persino presente nei nostri motori di ricerca e nelle reti sociali. Questo è probabilmente ciò che spiega la nuova mania che sta vivendo oggi, ci appassiona perché ci ha permesso di potenziare le nostre tecnologie e quindi avere migliori usi per loro.
 
-However, **AI is an old scientific discipline**, it was officially recognised as a field of research in 1956 and the progress of research in this field will be booming until 1974.
+Tuttavia, **l'IA è una vecchia disciplina scientifica**, è stata ufficialmente riconosciuta come campo di ricerca nel 1956 e il progresso della ricerca in questo campo sarà in piena espansione fino al 1974.
 
- ![Image First winter for AI](../Images/Hiver_1980.png)
+ Immagine Primo inverno per l'IA](../Images/Hiver_1980.png)
 
- Subsequently, as the hoped-for results did not materialise, investors lost interest in the discipline and research in the field began to falter until 1980: this was the first winter of AI. It was **the rise in the 1980s of expert systems**, which made it possible to reproduce cognitive abilities and to outperform experts in their field, that revived the dynamics of the discipline. But here again, the enthusiasm of funders is waning in the face of slower-than-expected progress, and AI will experience a second winter of about ten year
+Successivamente, poiché i risultati sperati non si materializzarono, gli investitori persero interesse nella disciplina e la ricerca nel campo cominciò a vacillare fino al 1980: questo fu il primo inverno dell'IA. Fu **l'ascesa negli anni '80 dei sistemi esperti**, che permisero di riprodurre le capacità cognitive e di superare gli esperti nel loro campo, a ravvivare la dinamica della disciplina. Ma anche in questo caso, l'entusiasmo dei finanziatori sta scemando di fronte a progressi più lenti del previsto, e l'IA vivrà un secondo inverno di circa dieci anni
 
-In the mid-1990s, AI experienced a new boom, propelled - among other things - by the victory of IBM's Deep Blue programme over the chess champion Garry Kasparov in 1997. New performances, for example in image recognition, are at the origin of the current enthusiasm for the discipline. Current achievements in artificial intelligence, such as the development of voice assistants, medical imaging analysis or intelligent mechanisms in cars, are the result of the research advances of the last twenty years. **These technological feats, which can be improved, will undoubtedly have an impact on our societies in the long term and will be the source of transformations in many areas** such as health, justice, the media and transport. **However, these developments are relative, and we must adopt a technocritical attitude towards their applications.**
+A metà degli anni '90, l'IA ha conosciuto un nuovo boom, spinto - tra l'altro - dalla vittoria del programma Deep Blue di IBM sul campione di scacchi Garry Kasparov nel 1997. Nuove prestazioni, per esempio nel riconoscimento delle immagini, sono all'origine dell'attuale entusiasmo per questa disciplina. Le attuali conquiste dell'intelligenza artificiale, come lo sviluppo degli assistenti vocali, l'analisi delle immagini mediche o i meccanismi intelligenti nelle automobili, sono il risultato dei progressi della ricerca degli ultimi venti anni. **Queste prodezze tecnologiche, che possono essere migliorate, avranno senza dubbio un impatto sulle nostre società a lungo termine e saranno la fonte di trasformazioni in molti settori** come la salute, la giustizia, i media e i trasporti. **Tuttavia, questi sviluppi sono relativi, e dobbiamo adottare un atteggiamento tecnocritico nei confronti delle loro applicazioni.**
