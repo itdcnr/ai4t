@@ -1,20 +1,20 @@
 ---
-title: Machine Learning Seeks its Ethics
+title: L'apprendimento automatico cerca la sua Etica
 description:
 hide:
 - toc
 ---
 
-_Text translated from the online press article in French [(01net.com)](https://www.01net.com/actualites/intelligence-artificielle-l-apprentissage-automatique-cherche-son-ethique-1712366.html) about ethics and machine learning._
+_Testo tradotto dall'articolo della rivista online in francese [(01net.com)](https://www.01net.com/actualites/intelligence-artificielle-l-apprentissage-automatique-cherche-son-ethique-1712366.html) sull'etica e l'apprendimento automatico._
 
 
-More and more artificial intelligence algorithms are beginning to rule our lives, although it is not clear whether their decisions are well-founded. Good practices and tools are beginning to emerge to promote the ethical and responsible use of this technology.
+Sempre più algoritmi di intelligenza artificiale stanno cominciando a governare le nostre vite, anche se non è chiaro se le loro decisioni siano ben fondate. Cominciano ad emergere buone pratiche e strumenti per promuovere un uso etico e responsabile di questa tecnologia.
 
 <center><img src="../Images/IAI-module3-ethique.png" alt="Photo by Mike MacKensie from www.vpnsrus.com" width="500"></center>
 <center>Photo by Mike MacKensie from www.vpnsrus.com</center>
 
-Whenever a new revolutionary technology has appeared, ethical and legal questions have quickly arisen: What are its limits of use? How can we ensure that it does not have harmful consequences for users? Who is responsible if something goes wrong?  
+Ogni volta che è apparsa una nuova tecnologia rivoluzionaria, sono sorte rapidamente domande etiche e legali: Quali sono i suoi limiti d'uso? Come possiamo garantire che non abbia conseguenze dannose per gli utenti? Chi è responsabile se qualcosa va storto?  
 
-Artificial intelligence is no exception to this rule. Indeed, the question of ethics is particularly important given the impact of this technology - and in particular its variant of machine learning - on ever more aspects of our daily lives. Artificial intelligence algorithms decide what we see on the Internet, assess our creditworthiness, co-pilot our planes and cars, suggest products for purchase, help doctors detect our illnesses and prescribe medication, can recognise our voice and face at home and elsewhere, etc.
+L'intelligenza artificiale non fa eccezione a questa regola. Infatti, la questione dell'etica è particolarmente importante dato l'impatto di questa tecnologia - e in particolare la sua variante di apprendimento automatico - su sempre più aspetti della nostra vita quotidiana. Gli algoritmi di intelligenza artificiale decidono ciò che vediamo su Internet, valutano la nostra affidabilità creditizia, co-pilotano i nostri aerei e le nostre auto, suggeriscono prodotti da acquistare, aiutano i medici a individuare le nostre malattie e a prescrivere farmaci, possono riconoscere la nostra voce e il nostro volto a casa e altrove, ecc.
 
-Full article from [01net.com](https://www.01net.com/actualites/intelligence-artificielle-l-apprentissage-automatique-cherche-son-ethique-1712366.html) web site.
+Articolo completo al sito [01net.com](https://www.01net.com/actualites/intelligence-artificielle-l-apprentissage-automatique-cherche-son-ethique-1712366.html).
