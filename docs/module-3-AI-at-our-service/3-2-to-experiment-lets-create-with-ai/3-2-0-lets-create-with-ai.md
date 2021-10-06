@@ -8,7 +8,7 @@ hide:
 
 #### Rilevare l'IA: IA o Umano?
 
-L'attività seguente riguarda l'identificazione se un'immagine è reale o prodotta da una IA. Questa attività sperimentale è un'introduzione alla comprensione delle GAN (Generative Adversarial Networks - Reti Generaive Avversarie).
+L'attività seguente riguarda il determinare se un'immagine è reale o prodotta da una IA. Questa attività sperimentale è un'introduzione alla comprensione delle GAN (Generative Adversarial Networks - Reti Generaive Avversarie).
 
 **Vuoi provare?**  
 _Clicca l'immagine sottostante e lasciati guidare da noi!_
