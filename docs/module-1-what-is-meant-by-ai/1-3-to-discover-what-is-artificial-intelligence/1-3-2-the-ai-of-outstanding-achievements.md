@@ -1,43 +1,43 @@
 ---
-title: The AI of Outstanding Achievements
+title: L'IA dei risultati eccezionali
 description:
 ---
 
-**AI has become a hot topic in the media and science magazines** due to numerous achievements, many of which are the result of advances in the field of machine learning.
+**L'IA è diventata un argomento importante nei media e nelle riviste scientifiche** a causa di numerose conquiste, molte delle quali sono il risultato dei progressi nel campo dell'apprendimento automatico.
 
-AI research has made significant progress in the last decade in a variety of areas. The **best known advances are those in machine learning**, thanks in particular to the development of deep learning architectures, multi-layer convolutional neural networks that learn from large volumes of data on intensive computing architectures.
+La ricerca sull'IA ha fatto progressi significativi nell'ultimo decennio in una molteplicità di settori. I **progressi più noti sono quelli nell'apprendimento automatico**, grazie in particolare allo sviluppo di architetture di deep learning, reti neurali convoluzionali multistrato che imparano da grandi volumi di dati su architetture di calcolo intensive.
 
-**Some notable examples:**
+**Alcuni esempi degni di nota**
 
-*   **solving Atari games** (Bricks, Space invaders, etc.) by Google DeepMind, using the pixel images displayed on the screen as input to decide what action to take to achieve the highest possible score at the end of the game
-*   the **victory in the game of Go**, by the same team, over the best human player in a series of five games
-*   **automatic description of the content of an image** ("[An image speaks louder than a thousand words](http://googleresearch.blogspot.fr/2014/11/a-picture-is-worth-thousand-coherent.html)"), also by Google
-*   **the results of [Imagenet's Large Scale Visualisation Challenge 2012](http://image-net.org/challenges/LSVRC/2012/results.html)**, won by a very large convolutional neural network developed by the University of Toronto, and trained with Nvidia GPUs
-*   the quality of **facial recognition systems** such as those of Facebook
+*   **risoluzione di giochi Atari** (Bricks, Space invaders, etc.) da parte di Google DeepMind, utilizzando le immagini di pixel visualizzate sullo schermo come input per decidere quale azione intraprendere per raggiungere il punteggio più alto possibile alla fine del gioco
+*   la **vittoria nel gioco del GO**, da parte della stessa squadra, sul miglior giocatore umano in una serie di cinque partite
+*   **descrizione automatica del contenuto di un'immagine** ("[Un'immagine parla più forte di mille parole](http://googleresearch.blogspot.fr/2014/11/a-picture-is-worth-thousand-coherent.html)"), sempre da parte di Google
+*   **i risultati di [Imagenet's Large Scale Visualisation Challenge 2012](http://image-net.org/challenges/LSVRC/2012/results.html)**, vinto da una rete neurale convoluzionale molto grande sviluppata dall'Università di Toronto e addestrata con GPU Nvidia
+*   la qualità dei **sistemi di riconoscimento facciale** come quelli di Facebook
 *   aso.
 
-But this is only a very small part of what AI has achieved. **The advances in robotics, autonomous vehicles, speech processing and natural language understanding are equally impressive**.  
-Examples include:
+Ma questa è solo una piccola parte di ciò che l'IA ha raggiunto. **I progressi nella robotica, nei veicoli autonomi, nell'elaborazione del discorso e nella comprensione del linguaggio naturale sono altrettanto impressionanti**.  
+Alcuni esempi sono:
 
-*   the skill level achieved by robots in [Darpa's Robotic Challenge](https://en.wikipedia.org/wiki/DARPA_Robotics_Challenge), won by KAIST in 2015. In this competition, robots must drive a utility vehicle, open a door and enter a building, close a valve, use a tool to drill through a wall, move through rubble or remove debris blocking an entrance door and climb a ladder;
-*   **speech understanding.** It is now considered a standard feature of smartphones and tablets with artificial companions such as Apple's Siri, Microsoft's Cortana or Facebook's M;
-*   **Instant translation.** Microsoft Skype Translator translates conversations in different languages in real time;
-*   **driverless vehicles.** Autonomous cars have travelled thousands of kilometres without major incidents.
+*   il livello di abilità raggiunto dai robot nel [Darpa's Robotic Challenge](https://en.wikipedia.org/wiki/DARPA_Robotics_Challenge), vinto da KAIST in 2015. in questa competizione, i robot devono guidare un veicolo, aprire una porta ed entrare in un edificio, chiudere una valvola, utilizzare uno strumento per forare un muro, muoversi tra le macerie o rimuovere i detriti che bloccano una porta d'ingresso e salire una scala;
+*   **comprensione del parlato.** Ora è considerata una caratteristica standard di smartphone e tablet con assistenti artificiali come Siri di Apple, Cortana di Microsoft o M di Facebook;
+*   **Traduzione istantanea.** Microsoft Skype Translator traduce le conversazioni in diverse lingue in tempo reale;
+*   **veicoli senza conducente.** ALe auto autonome hanno percorso migliaia di chilometri senza incidenti di particolare gravità.
 
-Equally fundamental are the results obtained in **areas such as knowledge representation and reasoning, ontologies and other technologies for the semantic web and the web of data:**
+Altrettanto fondamentali sono i risultati ottenuti in **aree come la rappresentazione e il ragionamento della conoscenza, le ontologie e altre tecnologie per il web semantico e il web dei dati:**
 
-*   **Google Knowledge Graph** improves search results by displaying structured data on requested search terms or phrases;
-*   **Schema.org** contains millions of RDF triples describing known facts: search engines can use this data to provide structured information on demand;
-*   **Facebook uses the **OpenGraph protocol** - based on RDFa - to allow any web page to become an enriched object in a social graph.
+*   **Google Knowledge Graph** migliora i risultati di ricerca mostrando dati strutturati sui termini o le frasi di ricerca richiesti;
+*   **Schema.org** contiene milioni di triple RDF che descrivono fatti noti: i motori di ricerca possono usare questi dati per fornire informazioni strutturate su richiesta;
+*   **Facebook usa l'**OpenGraph protocol** - basato su RDFa - per permettere a qualsiasi pagina web di diventare un oggetto arricchito in un grafo sociale.
 
-Finally, another important trend is the **recent opening up of several previously proprietary technologies** so that the AI research community can not only benefit from them, but also contribute to enriching them with new features.  
+Infine, un'altra tendenza importante è la **recente messa a disposizione di diverse tecnologie precedentemente proprietarie** in modo che la comunità di ricerca AI possa non solo beneficiarne, ma anche contribuire ad arricchirle di nuove funzionalità. 
 
-Examples include:
+Alcuni esempi sono:
 
-*   **IBM Watson's cognitive services,** available on programmatic interfaces (APIs), which offer up to twenty different technologies such as Speech To Text and Text To Speech services, concept identification and linkage, visual recognition and many others;
-*   [Google's TensorFlow Software Library](https://www.tensorflow.org/?hl=en) used for machine learning, which has been made open source;
-*   Facebook's release of its open source [Big Sur server](https://engineering.fb.com/) design for running large deep learning neural networks on GPUs
+*   L'**IBM Watson's cognitive services,** disponibile su interfacce programmatiche (API), che offrono fino a venti diverse tecnologie come i servizi Speech To Text e Text To Speech, identificazione e collegamento di concetti, riconoscimento visivo e molti altri;
+*   [Google's TensorFlow Software Library](https://www.tensorflow.org/?hl=en) utilizzato per l'apprendimento automatico (machine learning), che è stato reso open source;
+*   Il rilascio da parte di Facebook del suo open source [Big Sur server](https://engineering.fb.com/) design per l'esecuzione di grandi reti neurali di deep learning su GPU
 
-The enthusiasm generated by all these positive achievements has, however, been tempered by the concerns expressed here and there by leading scientists.
+L'entusiasmo generato da tutti questi risultati positivi è stato, tuttavia, temperato dalle preoccupazioni espresse qua e là dai maggiori scienziati.
 
-_Source: ["Artificial intelligence, current challenges and Inria's engagement" - Inria white paper, 2016.](//www.slideshare.net/INRIA/inria-white-paper-artificial-intelligence-current-challenges-and-inrias-engagement "Artificial intelligence, current challenges and Inria's engagement")_
+_Fonte: ["Artificial intelligence, current challenges and Inria's engagement" - Inria white paper, 2016.](//www.slideshare.net/INRIA/inria-white-paper-artificial-intelligence-current-challenges-and-inrias-engagement "Artificial intelligence, current challenges and Inria's engagement")_
