@@ -1,6 +1,6 @@
 ---
-title: Boosted with AI?
-description:
+titolo: Boosted with AI?
+descrizione:
 ---
 
 There is no better way to understand how machine learning and program training works than to understand how to properly prepare your dataset.
