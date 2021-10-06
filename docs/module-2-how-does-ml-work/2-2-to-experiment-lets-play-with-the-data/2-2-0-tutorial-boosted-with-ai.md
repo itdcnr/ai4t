@@ -1,6 +1,6 @@
 ---
-titolo: Rafforzato con l'IA?
-descrizione:
+title: Rafforzato con l'IA?
+description:
 ---
 
 Il modo migliore per comprendere come funzionano l'apprendimento automatico e l'addestramento dei programmi è capire come preparare correttamente il tuo dataset.
