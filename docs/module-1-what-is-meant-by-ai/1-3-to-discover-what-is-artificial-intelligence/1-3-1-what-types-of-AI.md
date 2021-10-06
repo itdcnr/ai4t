@@ -23,9 +23,9 @@ Approccio simbolico o numerico?
 
 Immaginiamo di voler programmare un robot da cucina per fare un pot au feu, possiamo farlo:
 
-*   avere un **approccio simbolico**, cioè basato sulla logica e sulla conoscenza a priori.  
+*   con un **approccio simbolico**, cioè basato sulla logica e sulla conoscenza a priori.  
     Se sei uno specialista di questa ricetta, puoi dare esplicitamente una serie di regole e principi per fare un pot au feu: questo sarà molto buono se sei un grande cuoco e puoi anche proporre tecniche di livello molto alto, con ragionamenti complicati.
-*   avere un **approccio numerico**, cioè basato sui dati e sull'apprendimento.  
+*   con un **approccio numerico**, cioè basato sui dati e sull'apprendimento.  
     Senza sapere troppo bene come si fa, ma osservando molte altre persone che preparano pentole sul fuoco, potremo trarre regole generali da un'analisi statistica e quindi numerica dei loro metodi e proporre soluzioni. Questo sarà certamente meno esplicito rispetto alle conoscenze già acquisite, ma sarà più flessibile e adattabile perché si baserà sulla diversità delle osservazioni. Potrebbe anche essere possibile trovare cose che nessuno ha mai sperimentato prima (per esempio, che alcune persone mettono la carne prima o dopo aver riscaldato l'acqua).
 
 Ognuno di questi due approcci permette di far svolgere a una macchina funzioni che sarebbero state considerate intelligenti se fatte da un umano: si è esperti e si formalizza e specifica la propria conoscenza o si osserva e si imita senza avere alcuna conoscenza a priori, cercando di far emergere questa conoscenza attraverso l'analisi e il confronto di casi simili, attraverso l'apprendimento. Questo corrisponde a due diverse facoltà del cervello: lo so (memoria esplicita) o lo so fare (o meglio imparo a fare per esperienza, memoria implicita).  
