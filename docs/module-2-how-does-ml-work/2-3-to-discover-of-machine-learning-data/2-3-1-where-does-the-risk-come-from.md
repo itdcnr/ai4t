@@ -1,74 +1,78 @@
 ---
-title: Where Does the Risk Come From?
+title: Da dove proviene il rischio?
 description:
 ---
 
-[Full article in French published on February 20, 2020 by binaire on Le Monde web site: "D’où vient le risque ? Des données et des algorithmes" - _Authors: Serge Abiteboul, Thierry Viéville_](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) 
+[Articolo completo in francese pubblicato il 20 febbraio 2020 da binaire sul sito web di Le Monde: "D’où vient le risque ? Des données et des algorithmes" - _Authori: Serge Abiteboul, Thierry Viéville_](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) 
 
-_The meeting of researchers from the legal and computer science domains in the context of the [Centre Internet et Société](http://cis.cnrs.fr/) (Internet and Society Center) launch was an opportunity for cross-reflection and to raise a number of questions and initial research approaches to be explored together. This article summarises the results of the round table. **Serge Abiteboul, Thierry Viéville.**_
+_L'incontro di ricercatori del settore giuridico e dell'informatica nel contesto del lancio della [Centre Internet et Société](http://cis.cnrs.fr/) (Internet and Society Center) è stato un'opportunità per una riflessione interdisciplinare e per sollevare una serie di domande e approcci di ricerca iniziali da esplorare insieme. Questo articolo riassume i risultati della tavola rotonda. **Serge Abiteboul, Thierry Viéville.**_
 
 <center><img src="https://storage.googleapis.com/prd-blogs/2020/02/cc883a26-white-caution-cone-on-keyboard-211151.jpg" alt="Photo by Fernando Arcos from Pexels" width="500"></center>
 <center>[Photo by Fernando Arcos from Pexels](https://www.pexels.com/photo/white-caution-cone-on-keyboard-211151/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)</center>
 
-Classification of Risks
+Classificazione dei rischi
 -----------------------
 
-Digital platforms and their role in society are occupying the media and governing bodies. We, lawyers and computer scientists, perceive them as new data markets.
+Le piattaforme digitali e il loro ruolo nella società stanno occupando i media e gli organi di governo. Noi, avvocati e informatici, le percepiamo come nuovi mercati di dati.
 
-Several human actors, artists, authors, content creators, language developers, platform developers, application developers, Internet users and consumers, public and private actors, gravitate around these platforms and are exposed to **two types of risk**:
+Diversi attori umani, artisti, autori, creatori di contenuti, sviluppatori di lingue, sviluppatori di piattaforme, sviluppatori di applicazioni, utenti e consumatori di Internet, attori pubblici e privati, gravitano intorno a queste piattaforme e sono esposti a **due tipi di rischio**:
 
-*   **Data risk** is about data protection on these platforms.
-*   **Algorithm-risk** refers to the issues of algorithmic discrimination.
+*   I **rischi legati ai dati** che riguardano la protezione dei dati su queste piattaforme.
+*   I **rischi legati agli algoritmi** che si riferiscono alle questioni di discriminazione algoritmica..
 
-This paper provides a first reflection on how to deal with digital platforms and data and algorithmic risks. These issues can be approached from two complementary points of view: the legal point of view, whose main concern is to define the frameworks that allow these risks to be identified and managed, and the IT point of view, whose aim is to develop the tools needed to quantify and resolve these risks.
 
-The three facets of algorithmic risk
+Questo documento fornisce una prima riflessione su come affrontare le piattaforme digitali e i rischi legati ai dati e agli algoritmi. Queste questioni possono essere affrontate da due punti di vista complementari: il punto di vista giuridico, la cui preoccupazione principale è quella di definire i quadri che permettono di identificare e gestire questi rischi, e il punto di vista informatico, il cui obiettivo è quello di sviluppare gli strumenti necessari per quantificare e risolvere questi rischi.
+Questo documento fornisce una prima riflessione su come affrontare le piattaforme digitali e i rischi dati e algoritmici. Queste questioni possono essere affrontate da due punti di vista complementari: il punto di vista giuridico, la cui preoccupazione principale è quella di definire i quadri che permettono di identificare e gestire questi rischi, e il punto di vista informatico, il cui obiettivo è quello di sviluppare gli strumenti necessari per quantificare e risolvere questi rischi.
+
+
+Le tre sfaccettature del rischio legato agli algoritmi 
 ------------------------------------
 
-Algorithm risk can be characterised in three ways.
+Il rischio legato agli algoritmi può essere caratterizzato in tre modi.
 
-*   Firstly, there is **algorithmic confinement**, which can also relate to opinions, cultural knowledge or even commercial practices. Indeed, the algorithms confront the Internet user with the same content, depending on his profile and the integrated parameters, despite the respect of the principle of fairness. This is the case on news recommendation sites such as Facebook or product recommendation sites such as Amazon.
-*   The second facet of algorithmic risk is linked to the **control of all aspects of an individual's life**, from the regulation of information for investors to his or her eating habits, hobbies, or even health status. This tracing of the individual suggests a form of surveillance that contravenes the very essence of individual freedom.
-*   The third is related to the **potential violation of fundamental rights**. In particular, algorithmic discrimination defined as unfavourable or unequal treatment, in comparison with other persons or other equal or similar situations, based on a ground expressly prohibited by law. This encompasses the study of the fairness (_fairness_) of ranking (sorting of people looking for a job online), recommendation, and prediction learning algorithms. The problem of [discriminatory bias](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=fr) induced by algorithms concerns several areas such as online hiring on MisterTemp', Qapa and TaskRabbit, court decisions, police patrol decisions, or school admissions.
+*  In primo luogo, c'è il **confinamento algoritmico**, che può riguardare anche le opinioni, le conoscenze culturali o anche le pratiche commerciali. In effetti, gli algoritmi mettono gli utenti di Internet di fronte allo stesso contenuto, a seconda del loro profilo e dei parametri integrati, nonostante il rispetto del principio di equità. È il caso dei siti che suggeriscono notizie come Facebook o dei siti che suggeriscono prodotti come Amazon.
+*   La seconda sfaccettatura del rischio algoritmico è legata al **controllo di tutti gli aspetti della vita di un individuo**, dalla regolamentazione delle informazioni per gli investitori alle sue abitudini alimentari, gli hobby o persino lo stato di salute. Questo tracciamento dell'individuo suggerisce una forma di sorveglianza che contravviene all'essenza stessa della libertà individuale.
+*   Il terzo è legato alla **potenziale violazione dei diritti fondamentali**. In particolare, la discriminazione algoritmica definita come un trattamento sfavorevole o ineguale, rispetto ad altre persone o altre situazioni uguali o simili, basato su un motivo espressamente vietato dalla legge. Questo comprende lo studio dell'equità (_fairness_) odegli algoritmi di ranking (ordinamento delle persone che cercano un lavoro online), di raccomandazione e di apprendimento delle previsioni. Il problema del [bias discriminatorio](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=fr) indotto da algoritmi riguarda diversi settori come le assunzioni online su MisterTemp', Qapa e TaskRabbit, le decisioni dei tribunali, le decisioni delle pattuglie di polizia o le ammissioni scolastiche.
 
-From Risks to Bias in Data and in Algorithms
+Dai rischi ai bias nei dati e negli algoritmi
 --------------------------------------------
 
-We take up a [classification of biases](https://www.telecom-paris.fr/wp-content-EvDsK19/uploads/2019/02/Algorithmes-Biais-discrimination-equite.pdf) proposed by colleagues at Télécom ParisTech and discussed in [a report](https://www.institutmontaigne.org/blog/algorithmes-donnees-et-biais-quelles-politiques-publiques) from the Institut Montaigne in Paris. We adapt this classification to risk-data and risk-algorithms with a focus on bias.
+Riprendiamo una [classificazione dei bias](https://www.telecom-paris.fr/wp-content-EvDsK19/uploads/2019/02/Algorithmes-Biais-discrimination-equite.pdf) proposta dai colleghi di Télécom ParisTech e discussa in [un report](https://www.institutmontaigne.org/blog/algorithmes-donnees-et-biais-quelles-politiques-publiques) dell'Institut Montaigne di Parigi. Adattiamo questa classificazione al rischio dati e al rischio algoritmicocon un focus sul bias.
 
 <center><img src="../Images/AI4T-M2.3-Data-and-algorithms.png" alt="Illustration from Sihem Amer-Yahia" width="600"><br/>
 ©Sihem Amer-Yahia</center>
 
-The data come from different sources and have multiple formats. They carry different types of bias.
+I dati provengono da diverse fonti e hanno formati multipli. Portano diversi tipi di bias.
 
-Data bias is mainly statistical.
+Il bias dei dati è principalmente statistico.
 
-*   **Data-bias** is typically present in data values. For example, this is the case for a recruitment algorithm trained on a database in which men are over-represented will exclude women.
-*   **Standard bias** is a tendency to act in reference to the social group we belong to. For example, one study shows that women tend to click on job offers that they think are easier to get as a woman.
-*   **Omitted variable bias** (modelling or coding bias) is a bias due to the difficulty of representing or coding a factor in the data. For example, because it is difficult to find factual criteria to measure emotional intelligence, this dimension is absent from recruitment algorithms.
-*   **The selection bias** is in turn due to the characteristics of the sample selected to draw conclusions. For example, a bank will use internal data to derive a credit score, focusing on those who have or have not obtained a loan, but ignoring those who have never needed to borrow, etc.
+*   Il **Data-bias** è tipicamente presente nei valori dei dati. Per esempio, nel caso di un algoritmo di reclutamento addestrato su un database in cui gli uomini sono sovrarappresentati, l'algoritmo escluderà le donne.
+*  Lo **Standard bias**  è una tendenza ad agire in riferimento al gruppo sociale a cui apparteniamo. Per esempio, uno studio mostra che le donne tendono a cliccare sulle offerte di lavoro che pensano siano più facili da ottenere in quanto donne.
+*   L'**Omitted variable bias** (bias di modellazione o di codifica) è un bias dovuto alla difficoltà di rappresentare o codificare un fattore nei dati. Per esempio, poiché è difficile trovare criteri fattuali per misurare l'intelligenza emotiva, questa dimensione è assente dagli algoritmi di reclutamento.
+*   **Il selection bias** è a sua volta dovuto alle caratteristiche del campione selezionato per trarre conclusioni. Per esempio, una banca userà i dati interni per ricavare un punteggio di credito, concentrandosi su coloro che hanno o non hanno ottenuto un prestito, ma ignorando quelli che non hanno mai avuto bisogno di un prestito, ecc.
 
-The algorithmic bias is mainly a matter of reasoning.
+Il bias algoritmico è principalmente una questione di ragionamento.
 
-*   **An economic bias** is introduced into algorithms, intentionally or unintentionally, because it will be economically efficient. For example, an advertising algorithm directs ads to particular profiles for which the chances of success are greater; razors will be more likely to be seen by men, fast food by socially disadvantaged populations, etc.
+*   **Un bias economico** viene introdotto negli algoritmi, intenzionalmente o meno, perché sarà economicamente efficiente. Per esempio, un algoritmo pubblicitario indirizza gli annunci a particolari profili per i quali le possibilità di successo sono maggiori; i rasoi avranno più probabilità di essere visti dagli uomini, i fast food dalle popolazioni socialmente svantaggiate, ecc.
 
-A range of cognitive biases should also be mentioned
+Si dovrebbe anche menzionare una serie di bias cognitivi
 
-*   Conformity biases, known as "panhandle sheep," correspond to our tendency to reproduce the beliefs of our community. This is the case, for example, when we support a candidate in an election because his family and friends support him.       
-*   Confirmation bias is a tendency to favour information that reinforces one's view. For example, after a trusted person has told us that so-and-so is bossy, we only notice examples that show this.            
-*   The illusory correlation bias is a tendency to want to associate phenomena that are not necessarily related. For example, thinking that there is a relationship between oneself and an external event such as a train delay or weather.
-*   The endogenous bias is related to a relative inability to anticipate the future. For example, in the case of _credit scoring_, it may be that a prospect with a poor loan repayment history may change their lifestyle when they decide to start a family.  
+*   I bias di conformità, noti come "panhandle sheep", corrispondono alla nostra tendenza a riprodurre le credenze della nostra comunità. Questo è il caso, per esempio, quando sosteniamo un candidato in un'elezione perché la sua famiglia e i suoi amici lo sostengono.       
+*   Il bias di conferma è la tendenza a favorire le informazioni che rafforzano il proprio punto di vista. Per esempio, dopo che una persona di fiducia ci ha detto che quel tale è prepotente, notiamo solo gli esempi che lo dimostrano.            
+*   Il bias di correlazione illusoria è una tendenza a voler associare fenomeni che non sono necessariamente correlati. Per esempio, pensare che ci sia una relazione tra se stessi e un evento esterno come il ritardo di un treno o il tempo.
+*   Il bias endogeno è legato all'incapacità relativa di anticipare il futuro. Per esempio, nel caso del _credit scoring_, può essere che un candidato con una storia di rimborso di prestiti scadente possa cambiare il suo stile di vita quando decide di mettere su famiglia.
 
 <center><img src="../Images/AI4T-M2.3-Data-and-algorithms-2.png" alt=Illustration from Sihem Amer-Yahia" width="600">  
 ©Sihem Amer-Yahia</center>
 
-Algorithms are a series of instructions that manipulate input data and return output data. This input data sometimes carries biases. Biases can also be found in one or more instructions of the algorithms.
+Gli algoritmi sono una serie di istruzioni che manipolano i dati di input e restituiscono dati di output. Questi dati di input a volte portano dei bias. I bias possono anche essere trovati in una o più istruzioni degli algoritmi.
 
-#### Should we address data-risk and algorithm-risk on digital digital platforms together or separately?
+#### Dovremmo affrontare il rischio legato ai dati e il rischio legato agli algoritmi sulle piattaforme digitali insieme o separatamente?
+  
+Consideriamo due esempi, il contesto della tecnologia blockchain e quello dei sistemi di intelligenza artificiale.
 
-Let's consider two examples, the context of technology blockchain technology, and that of Artificial Intelligence systems.
 
-On blockchain, first of all, there are data, risks and their bias. Let's take the example of data and the associated risks. The blockchain works by encryption with two cryptographic keys: private keys and public keys. Many Internet users entrust platforms with their private keys, thus delegating to them the management of their address and the movement of funds. These private keys are stored either in a file accessible on the Internet (_hot storage_) or on an isolated device (_cold storage_). The former is obviously highly vulnerable to hacking, while 92% of trading platforms report using a _cold storage_ system. Since 2011, 19 serious incidents have been recorded for an estimated loss amounting to $1.2 billion. The causes of these incidents are multiple. The most common comes from private key tampering, followed by the introduction of malware. The _hack_ of the Coincheck platform in Japan in January 2018 illustrates the weak protection of the _hot storage_ system.
+Su blockchain, prima di tutto, ci sono i dati, i rischi e i loro bias. Prendiamo l'esempio dei dati e dei rischi associati. La blockchain funziona per crittografia con due chiavi crittografiche: chiavi private e chiavi pubbliche. Molti utenti di Internet affidano alle piattaforme le loro chiavi private, delegando loro la gestione del loro indirizzo e il movimento dei fondi. Queste chiavi private sono conservate in un file accessibile su Internet (_hot storage_) o su un dispositivo isolato (_cold storage_). Il primo è ovviamente molto vulnerabile all'hacking, mentre il 92% delle piattaforme di trading riferisce di utilizzare un sistema di _cold storage_. Dal 2011, sono stati registrati 19 incidenti gravi per una perdita stimata in 1,2 miliardi di dollari. Le cause di questi incidenti sono molteplici. La più comune deriva dalla manomissione delle chiavi private, seguita dall'introduzione di malware. L'_hack_ della piattaforma Coincheck in Giappone nel gennaio 2018 illustra la debole protezione del sistema di _hot storage_.
 
 Another example on algorithms and associated risks, the exchange of cryptocurrencies on platforms is seeing the development and diversification of market infrastructures. The ambition is _"to enable the establishment of an environment that promotes the integrity, transparency and security of the services concerned for investors in digital assets, while ensuring a secure regulatory framework for the development of a robust French ecosystem"_. France has recently France has recently adopted a legal framework to regulate these activities activities in a flexible manner. However, at the global level, the risks of non-transparent listings or suspicious transactions of non-transparent quotations or suspicious transactions resembling of direct price manipulation or informed investor practices, such as type of _frontrunning_. Frontrunning is a stock market technique that allows a broker to use an order transmitted by its customers transmitted by his clients in order to enrich himself. The technique consists of The technique consists of taking advantage of price discrepancies generated by large orders The technique consists of taking advantage of price shifts caused by large orders placed by the broker's clients.
 
