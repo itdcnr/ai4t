@@ -1,24 +1,24 @@
 ---
-title: Can AI be Gender-biased?
+title: L'IA può essere di genere?
 description:
 hide:
 - toc
 ---
 
-_Translated text from the french IAI Mooc._
+_Testo tradotto dal Mooc francese IAI._
 
 <center><img src="../Images/ondira-levrres-intelligence-artificielle-femmes.jpg" alt="Photo by Fernando Arcos from Pexels" width="500"></center>
 <center>[Photo: CBC/Radio-Canada -iStock - Editing: Amarilys Proulx]()</center>
 
-An artificial intelligence does not think. So can it be racist, sexist or homophobic? It is possible for it to reproduce discriminatory mechanisms, if the mechanism has been trained by biased data. Human beings havecognitive biases in their reasoning.
+Un'intelligenza artificiale non pensa. Quindi può essere razzista, sessista o omofoba? È possibile che riproduca meccanismi discriminatori, se il meccanismo è stato addestrato da dati in cui si annidano dei bias. Gli esseri umani hanno bias cognitivi nel loro ragionamento.
 
-**Cognitive biases** are the set of psychological, moral, social, cultural... factors that influence, without our realizing it, our thinking mechanisms. These cognitive biases have an impact on logical thinking, as they influence our ways of thinking and lead us to make decisions guided by factors that are not rational. They can then be the cause of discriminatory decisions.
+I **bias cognirivi** sono l'insieme dei fattori psicologici, morali, sociali, culturali... che influenzano, senza che ce ne rendiamo conto, i nostri meccanismi di pensiero. Questi bias cognitivi hanno un impatto sul pensiero logico, poiché influenzano il nostro modo di pensare e ci portano a prendere decisioni guidate da fattori non razionali. Possono quindi essere la causa di decisioni discriminatorie.
 
-But it is we who provide data to the algorithms. If there are biases in the data provided, this will be reflected in the results. For example, the company Amazon has standard recruitment needs, and to make it easier to manage them, it decided to use an artificial intelligence capable of sorting CVs. In order for this AI to learn how to sort profiles, Amazon provided all the recruitment data it had recorded between 2004 and 2014. However, after a year, Amazon realised that the AI was systematically rejecting female profiles for technical and IT positions. The artificial intelligence, had simply determined by analysing the data it had been provided, that the recruitment for these positions over the last ten years was largely male<sup>1</sup>. Amazon stopped this artificial intelligence because the results obtained had gender biases. But it's not just biases in the data, there are also biases in the way the algorithms themselves are implemented.
+Ma siamo noi a fornire i dati agli algoritmi. Se ci sono bias nei dati forniti, questo si rifletterà nei risultati. Per esempio, l'azienda Amazon ha esigenze di reclutamento standard, e per facilitarne la gestione, ha deciso di utilizzare un'intelligenza artificiale in grado di ordinare i CV. Affinché questa IA imparasse a ordinare i profili, Amazon ha fornito tutti i dati di reclutamento che aveva registrato tra il 2004 e il 2014. Tuttavia, dopo un anno, Amazon si rese conto che l'IA rifiutava sistematicamente i profili femminili per le posizioni tecniche e IT. L'intelligenza artificiale aveva semplicemente determinato, analizzando i dati che le erano stati forniti, che il reclutamento per queste posizioni negli ultimi dieci anni era in gran parte maschile<sup>1</sup>. Amazon ha fermato questa intelligenza artificiale perché i risultati ottenuti presentavano bias di genere. Ma non si tratta solo di bias nei dati, ci sono anche bias nel modo in cui gli algoritmi stessi sono implementati.
 
-Technologies are therefore not neutral; they indirectly reflect the ways in which their designers and our societies operate. Even factors such as language can have an influence on them. In France, the composition of the language favours gendered learning more than in other countries. As names are predominantly masculine, an algorithm knows more masculine names than feminine ones. Thus, translation sites, such as Google translation, tend to give a masculine translation of names that are gender-neutral in another language<sup>2</sup>.
+Le tecnologie non sono quindi neutre; riflettono indirettamente i modi in cui operano i loro progettisti e le nostre società. Anche fattori come la lingua possono avere un'influenza su di esse. In Francia, la composizione della lingua favorisce l'apprendimento di genere più che in altri paesi. Poiché i nomi sono prevalentemente maschili, un algoritmo conosce più nomi maschili che femminili. Così, i siti di traduzione, come Google translation, tendono a dare una traduzione maschile di nomi che sono di genere neutro in un'altra lingua<sup>2</sup>.
 
-Artificial intelligence can reinforce inequities as well as combat them. Faced with these ethical and technical challenges, several modes of action are envisaged. For example, guaranteeing more gender diversity in computer sciences, so that men are no longer over-represented. Or to overcome cognitive biases by teaching the algorithm to recognise them. This second option requires designers to consider cognitive biases upstream, even though they are not always aware of them. The best solution is to ensure diversity in the learning data, as data can be easier to change than mindsets.<sup>3</sup>
+L'intelligenza artificiale può rafforzare le disuguaglianze così come combatterle. Di fronte a queste sfide etiche e tecniche, sono previste diverse modalità di azione. Per esempio, garantire una maggiore diversità di genere nelle scienze informatiche, in modo che gli uomini non siano più sovrarappresentati. Oppure superare i bias cognitivi insegnando all'algoritmo a riconoscerli. Questa seconda opzione richiede che i progettisti considerino a monte i bias cognitivi, anche se non sempre ne sono consapevoli. La soluzione migliore è garantire la diversità nei dati di apprendimento, poiché i dati possono essere più facili da cambiare rispetto alle mentalità.<sup>3</sup>
 
 * * *
 
