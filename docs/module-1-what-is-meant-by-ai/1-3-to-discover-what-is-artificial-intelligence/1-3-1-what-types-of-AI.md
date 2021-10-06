@@ -1,37 +1,36 @@
 ---
-title: What types of AI?
+title: Quali tipi di IA?
 description:
 ---
 
 
-Many AI definitions and classification can be found in the litterature. Although AI has entered the common language, there is no really shared definition.  
-One of the classification distinguishes between weak AI and strong AI. An other one refers to symbolic or numerical approaches to artificial intelligence.  Let's see what do they refer to.
+Nella letteratura si possono trovare molte definizioni e classificazioni dell'IA. Anche se l'IA è entrata nel linguaggio comune, non esiste una definizione veramente condivisa.  Una delle classificazioni distingue tra IA debole e IA forte. Un'altra si riferisce ad approcci simbolici o numerici all'intelligenza artificiale.  Vediamo a cosa si riferiscono.
 
-_Translated text from the french IAI Mooc._
+_Testo tradotto dal Mooc francese IAI._
 
-Weak or strong AI?
+IA debole o forte?
 ------------------
 
-The expression "artificial intelligence", created in the 1950s, refers to the field of research that studies the mechanisms of intelligence by modelling them with algorithms and experimenting with machines. These mechanisms include, for example, the ability to automatically find solutions to problems, which may involve planning, prediction, control, memory or learning. By extension, the term "artificial intelligence" is often used to refer to algorithms that simulate or share some of the intelligence capabilities of living beings.
+L'espressione "intelligenza artificiale", creata negli anni '50, si riferisce al campo di ricerca che studia i meccanismi dell'intelligenza modellandoli con algoritmi e sperimentando con le macchine. Questi meccanismi includono, per esempio, la capacità di trovare automaticamente soluzioni ai problemi, che possono implicare pianificazione, previsione, controllo, memoria o apprendimento. Per estensione, il termine "intelligenza artificiale" è spesso usato per riferirsi ad algoritmi che simulano o condividono alcune delle capacità di intelligenza degli esseri viventi.
 
-*   **Weak artificial intelligence**  
-    This is the artificial intelligence we know today: it is an algorithm that "learns", by adapting its parameters to learning data, and is not endowed with mental and cognitive capacities, but is capable of performing a specific task much more efficiently, sometimes more so than a human being.
-*   **Strong artificial intelligence**  
-    An artificial intelligence that would be capable of copying human aptitudes (learning, understanding, apprehending, reasoning, making decisions, having a conscience, emotions, etc.). To date, strong artificial intelligence does not exist, it is a belief.
+*   **Intelligenza artificiale debole**  
+    Questa è l'intelligenza artificiale che conosciamo oggi: è un algoritmo che "impara", adattando i suoi parametri ai dati di apprendimento, e non è dotato di capacità mentali e cognitive, ma è capace di eseguire un compito specifico in modo molto più efficiente, a volte più di un essere umano.
+*   **Intelligenza artificiale forte**  
+    Un'intelligenza artificiale che sarebbe capace di riprodurre le attitudini umane (imparare, capire, apprendere, ragionare, prendere decisioni, avere una coscienza, emozioni, ecc.). Ad oggi, un'intelligenza artificiale forte non esiste, è una credenza.
 
-Symbolic or numerical approach?
+Approccio simbolico o numerico?
 -------------------------------
 
-Let's imagine that we want to program a kitchen robot to make a pot au feu, we can:
+Immaginiamo di voler programmare un robot da cucina per fare un pot au feu, possiamo farlo:
 
-*   have a **symbolic approach**, i.e. based on logic and a priori knowledge.  
-    If you are a specialist in this recipe, you can explicitly give a series of rules and principles for making a pot au feu: this will be very good if you are a great cook and can even propose very high level techniques, with complicated reasoning.
-*   have a **numerical approach**, i.e. based on data and learning.  
-    Without knowing too well how it is done, but by observing many other people who make pots on fire, we will be able to draw general rules from a statistical and therefore numerical analysis of their methods and propose solutions. This will certainly be less explicit than with knowledge already acquired, but it will be more flexible and adaptive because it will be based on the diversity of observations. It might even be possible to find things that no one has experienced before (for example, that some people put the meat in before or after heating the water).
+*   avere un **approccio simbolico**, cioè basato sulla logica e sulla conoscenza a priori.  
+    Se sei uno specialista di questa ricetta, puoi dare esplicitamente una serie di regole e principi per fare un pot au feu: questo sarà molto buono se sei un grande cuoco e puoi anche proporre tecniche di livello molto alto, con ragionamenti complicati.
+*   avere un **approccio numerico**, cioè basato sui dati e sull'apprendimento.  
+    Senza sapere troppo bene come si fa, ma osservando molte altre persone che preparano pentole sul fuoco, potremo trarre regole generali da un'analisi statistica e quindi numerica dei loro metodi e proporre soluzioni. Questo sarà certamente meno esplicito rispetto alle conoscenze già acquisite, ma sarà più flessibile e adattabile perché si baserà sulla diversità delle osservazioni. Potrebbe anche essere possibile trovare cose che nessuno ha mai sperimentato prima (per esempio, che alcune persone mettono la carne prima o dopo aver riscaldato l'acqua).
 
-Each of these two approaches makes it possible to make a machine perform functions that would have been considered intelligent if done by a human: you are an expert and you formalise and specify your knowledge or you observe and imitate without having any a priori knowledge, trying to make this knowledge emerge by analysis and comparison of similar cases, by learning. This corresponds to two different faculties of the brain: I know that (explicit memory) or I know how to do (or rather I learn to do by experience, implicit memory).  
+Ognuno di questi due approcci permette di far svolgere a una macchina funzioni che sarebbero state considerate intelligenti se fatte da un umano: si è esperti e si formalizza e specifica la propria conoscenza o si osserva e si imita senza avere alcuna conoscenza a priori, cercando di far emergere questa conoscenza attraverso l'analisi e il confronto di casi simili, attraverso l'apprendimento. Questo corrisponde a due diverse facoltà del cervello: lo so (memoria esplicita) o lo so fare (o meglio imparo a fare per esperienza, memoria implicita).  
 
-Historically, the symbolic approach is older, corresponding to expert systems, and more recently to the so-called semantic web. By formalising our knowledge in the form of ontologies, its great advantage is to be able to introduce specific knowledge a priori, before applying rules to automate a certain amount of reasoning. It also has the merit of being able to be used even with little data. It is based on formalisations of logic. The numerical approach corresponds, for example, to what is known as artificial neural networks, deep learning when there are several layers of such computing units. It has become effective more recently, and it is this approach that allows us to automatically transcribe texts that we dictate, or to recognise objects in images. It requires a lot of data and is based on statistical approaches. It is a current research topic to see how to combine the two approaches.  
+Storicamente, l'approccio simbolico è più vecchio, corrispondente ai sistemi esperti, e più recentemente al cosiddetto web semantico. Formalizzando la nostra conoscenza sotto forma di ontologie, il suo grande vantaggio è quello di poter introdurre conoscenze specifiche a priori, prima di applicare regole per automatizzare una certa quantità di ragionamenti. Ha anche il merito di poter essere utilizzato anche con pochi dati. Si basa su formalizzazioni della logica. L'approccio numerico corrisponde, per esempio, alle cosiddette reti neurali artificiali, deep learning quando ci sono diversi strati di tali unità di calcolo. È diventato efficace più recentemente, ed è questo approccio che ci permette di trascrivere automaticamente i testi che dettiamo, o di riconoscere gli oggetti nelle immagini. Richiede molti dati e si basa su approcci statistici. È un tema di ricerca attuale capire come combinare i due approcci.  
 
 
-A [Glossary about AI is published by the Council of Europe](https://www.coe.int/en/web/artificial-intelligence/glossary). Some more AI related terms are defined.
+A [Il glossario sull'IA è pubblicato dal Consiglio d'Europa](https://www.coe.int/en/web/artificial-intelligence/glossary). Vengono definiti alcuni altri termini relativi all'IA.
